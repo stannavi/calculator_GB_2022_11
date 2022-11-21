@@ -15,9 +15,11 @@
 
 Блок операций с рациональными числами
 ---------------------------------------
+<a href="https://files.fm/f/faettr48q"><img src="https://files.fm/thumb_show.php?i=faettr48q"></a>
 
 Блок операций с комплексными числами
 ---------------------------------------
+<a href="https://files.fm/f/emr3vch72"><img src="https://files.fm/thumb_show.php?i=emr3vch72"></a>
 
 Над проектом работали
 ---------------------------------------
